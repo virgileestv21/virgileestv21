@@ -2,7 +2,7 @@
 - 👀 I’m mainly interested in development and video games
 - 🌱 I’m currently learning HTML, CSS, JavaScript and C# in a BTEC Higher National Diploma of IT services for organizations
 - 📫 How to reach me :
-              - LinkedIn : https://www.linkedin.com/in/virgile-esteve-40242524b
+              - LinkedIn : https://www.linkedin.com/in/virgile-esteve
 
 <!---
 virgileestv21/virgileestv21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
