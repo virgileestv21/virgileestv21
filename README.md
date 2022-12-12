@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Virgile ESTEVE
-- 👀 I’m mainly interested in development and video games
+- 👀 I’m mainly interested in web and video games development
 - 🌱 I’m currently learning HTML, CSS, JavaScript and C# in a BTEC Higher National Diploma of IT services for organizations
 - 📫 How to reach me :
               - LinkedIn : https://www.linkedin.com/in/virgile-esteve
